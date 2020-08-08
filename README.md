@@ -1,2 +1,2 @@
-# boring-gradle
+# Boring-gradle
 demo gradle application
